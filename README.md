@@ -1,4 +1,5 @@
 # Online Text Editor
+This is a simple text editor built using HTML and JavaScript. The editor provides a minimalistic interface for users to write and edit text conveniently.
 
 ## Screenshot
 
