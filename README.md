@@ -13,10 +13,6 @@
 - Case Conversion: Users can convert the case of their text to uppercase, lowercase, or sentence case.
 - Clear text: Clear all the text from the editor with one click.
 
-## Screenshot
-
-![App Screenshot](https://raw.githubusercontent.com/fattahsamit/text-editor/main/images/editor.PNG)
-
 ## Installation
 To use the text editor locally, follow these steps:
 1. Clone or download this repository to your local machine.
