@@ -1,16 +1,8 @@
 # Online Text Editor
 
-Responsive web application that allows users to create and edit plain text documents directly in any web browser.Designed to be fully responsive and functional, meaning it will work seamlessly on devices of all sizes as long as you have internet connection.
+## Screenshot
 
-🔗 Live Site: https://fattahsamit.github.io/text-editor/
-
-📜 Repository: https://github.com/fattahsamit/text-editor
-
-## Technology
-
-![Tools](https://skillicons.dev/icons?i=html,tailwind,js)
-
-The editor's user interface is created using HTML and Tailwind CSS, while its functionality is implemented using JavaScript.
+![Demo](https://raw.githubusercontent.com/fattahsamit/text-editor/main/images/editor.PNG)
 
 ## Features
 
@@ -25,6 +17,20 @@ The editor's user interface is created using HTML and Tailwind CSS, while its fu
 
 ![App Screenshot](https://raw.githubusercontent.com/fattahsamit/text-editor/main/images/editor.PNG)
 
-## Conclusion
+## Installation
+To use the text editor locally, follow these steps:
+1. Clone or download this repository to your local machine.
+2. Navigate to the project directory.
 
-The Responsive Online Text Editor is a powerful and easy-to-use tool for creating and editing plain text documents online. Its responsive design ensures that it works well on devices of all sizes, including smartphones, tablets, laptops, and desktop computers. Whether you're writing a memo, taking notes, or working on a project, the editor has everything you need to get the job done. Give it a try today!
+## Usage
+1. Open the `index.html` file in your web browser.
+2. The text editor should load in the browser window.
+3. Start typing and editing your text.
+
+## Customization
+You can customize the text editor by modifying the following file:
+- `script.js`: Modify the JavaScript code to add or remove features and functionality.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
